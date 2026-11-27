@@ -1,0 +1,25 @@
+{
+  "assistant_name": "supernova",
+  "custom_commands": {
+    "what is your name": {
+      "type": "say",
+      "value": "My name is {name}, your voice assistant."
+    },
+    "who made you": {
+      "type": "say",
+      "value": "Parthiban was made me."
+    },
+    "open my github": {
+      "type": "url",
+      "value": "https://github.com/Parthiban-codex"
+    },
+    "open my linkedin":{
+      "type" :"url",
+      "value": "https://www.linkedin.com/in/parthiban-online/ "
+    },
+    "open w":{
+      "type":"url",
+      "value":"https://www.google.com/search?q=orange"
+    }
+  }
+}
