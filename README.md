@@ -1,4 +1,4 @@
-<center><h1><b>OIBSIP</b>Intership(NOV-DEC)</h1><h2>Python Voice Assistant (Task 1)</h2></center>
+<center><h1><b>OIBSIP</b> Intership(NOV-DEC)</h1><h2>Python Voice Assistant (Task 1)</h2></center>
 <hr>
 <ul>
 <li>A voice assistant that listens through the microphone, understands free-form sentences, and answers out loud.</li>
